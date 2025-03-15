@@ -38,7 +38,7 @@ This repository aims to help students become familiar with speech-related tasks,
    * Hanifa, R. M., Isa, K., & Mohamad, S. (2021). A review on speaker recognition: Technology and challenges. Computers & Electrical Engineering, 90, 107005.
    * Bai, Z., & Zhang, X. L. (2021). Speaker recognition based on deep learning: An overview. Neural Networks, 140, 65-99.
 * **speaker model**
-   * i-vector: 
+   * i-vector: Dehak, N., Kenny, P. J., Dehak, R., Dumouchel, P., & Ouellet, P. (2010). Front-end factor analysis for speaker verification. IEEE Transactions on Audio, Speech, and Language Processing, 19(4), 788-798.
    * d-vector: Variani, E., Lei, X., McDermott, E., Moreno, I. L., & Gonzalez-Dominguez, J. (2014, May). Deep neural networks for small footprint text-dependent speaker verification. In 2014 IEEE international conference on acoustics, speech and signal processing (ICASSP) (pp. 4052-4056). IEEE.
    * x-vector
       * Snyder, D., Garcia-Romero, D., Sell, G., Povey, D., & Khudanpur, S. (2018, April). X-vectors: Robust dnn embeddings for speaker recognition. In 2018 IEEE international conference on acoustics, speech and signal processing (ICASSP) (pp. 5329-5333). IEEE.
@@ -132,6 +132,7 @@ This repository aims to help students become familiar with speech-related tasks,
 # Toolkit
 * Wespeaker[![](https://img.shields.io/github/stars/wenet-e2e/wespeaker?style=social&label=Code+Stars)](https://github.com/wenet-e2e/wespeaker)
 * Wesep[![](https://img.shields.io/github/stars/wenet-e2e/wesep?style=social&label=Code+Stars)](https://github.com/wenet-e2e/wesep)
+* 3D-Speaker[![](https://img.shields.io/github/stars/modelscope/3D-Speaker?style=social&label=Code+Stars)](https://github.com/modelscope/3D-Speaker)
 
 # Some interesting repos
 * MuQ[![](https://img.shields.io/github/stars/tencent-ailab/MuQ?style=social&label=Code+Stars)](https://github.com/tencent-ailab/MuQ)
