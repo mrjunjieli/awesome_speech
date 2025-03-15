@@ -1,11 +1,7 @@
----
-title: Awesome Speech 
-top: true
----
-
 
 > Hi, everyone! I’m Junjie Li [[Homepage]](https://mrjunjieli.github.io/), currently a Ph.D. student at Hong Kong Polytechnic University (PolyU) 🇭🇰.
 This repository aims to help students become familiar with speech-related tasks, such as speech separation, speaker verification, ASR, TTS and so on. 
+
 
 
 
