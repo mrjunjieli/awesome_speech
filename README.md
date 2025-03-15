@@ -103,8 +103,14 @@ This repository aims to help students become familiar with speech-related tasks,
 
 
 # Speech Separation 
+* Audio-visual
+  * Looking to Listen at the Cocktail Party: A Speaker-Independent Audio-Visual Model for Speech Separation
+  * An Overview of Deep-Learning-Based Audio-Visual Speech Enhancement and Separation
+  * My lips are concealed: Audio-visual speech enhancement through obstructions
+* Multi-channel
+  *  Veluri, B., Itani, M., Chen, T., Yoshioka, T., & Gollakota, S. (2024, May). Look Once to Hear: Target Speech Hearing with Noisy Examples. In Proceedings of the CHI Conference on Human Factors in Computing Systems (pp. 1-16).
 * Ashihara, T., Moriya, T., Horiguchi, S., Peng, J., Ochiai, T., Delcroix, M., ... & Sato, H. (2024, December). Investigation of Speaker Representation for Target-Speaker Speech Processing. In 2024 IEEE Spoken Language Technology Workshop (SLT) (pp. 423-430). IEEE.
-* Veluri, B., Itani, M., Chen, T., Yoshioka, T., & Gollakota, S. (2024, May). Look Once to Hear: Target Speech Hearing with Noisy Examples. In Proceedings of the CHI Conference on Human Factors in Computing Systems (pp. 1-16).
+* Neural Target Speech Extraction: An Overview 
 
 
 # Speaker Diarization 
