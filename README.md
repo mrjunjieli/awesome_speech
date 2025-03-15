@@ -114,15 +114,16 @@ This repository aims to help students become familiar with speech-related tasks,
 
 
 # Speaker Diarization 
+* Is Someone Speaking? Exploring Long-term Temporal Features for Audio-visual Active Speaker Detection
 
 # Spoofing 
 * Towards Quantifying and Reducing Language Mismatch Effects in Cross-Lingual Speech Anti-Spoofing
 
 
-# Targer Speaker ASR 
+# ASR 
 
 
-# Personalized VAD 
+# VAD 
 
 # Others
 * Emerging Properties in Self-Supervised Vision Transformers
