@@ -28,11 +28,14 @@ This repository aims to help students become familiar with speech-related tasks,
 * Hadsell, R., Chopra, S., & LeCun, Y. (2006, June). Dimensionality reduction by learning an invariant mapping. In 2006 IEEE computer society conference on computer vision and pattern recognition (CVPR'06) (Vol. 2, pp. 1735-1742). IEEE.
 * Radford, A., Kim, J. W., Hallacy, C., Ramesh, A., Goh, G., Agarwal, S., ... & Sutskever, I. (2021, July). Learning transferable visual models from natural language supervision. In International conference on machine learning (pp. 8748-8763). PMLR.
 
+# Distillison 
+* Zhang, L., Song, J., Gao, A., Chen, J., Bao, C., & Ma, K. (2019). Be your own teacher: Improve the performance of convolutional neural networks via self distillation. In Proceedings of the IEEE/CVF international conference on computer vision (pp. 3713-3722).
 
 
 # Speaker Recognition/Verification:
 * **Overview**
    * Wang, S., Chen, Z., Lee, K. A., Qian, Y., & Li, H. (2024). Overview of speaker modeling and its applications: From the lens of deep speaker representation learning. IEEE/ACM Transactions on Audio, Speech, and Language Processing.
+   * 
 * **speaker model**
    * i-vector 
    * d-vector: Variani, E., Lei, X., McDermott, E., Moreno, I. L., & Gonzalez-Dominguez, J. (2014, May). Deep neural networks for small footprint text-dependent speaker verification. In 2014 IEEE international conference on acoustics, speech and signal processing (ICASSP) (pp. 4052-4056). IEEE.
