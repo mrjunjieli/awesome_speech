@@ -38,13 +38,14 @@ This repository aims to help students become familiar with speech-related tasks,
    * Hanifa, R. M., Isa, K., & Mohamad, S. (2021). A review on speaker recognition: Technology and challenges. Computers & Electrical Engineering, 90, 107005.
    * Bai, Z., & Zhang, X. L. (2021). Speaker recognition based on deep learning: An overview. Neural Networks, 140, 65-99.
 * **speaker model**
-   * i-vector 
+   * i-vector: 
    * d-vector: Variani, E., Lei, X., McDermott, E., Moreno, I. L., & Gonzalez-Dominguez, J. (2014, May). Deep neural networks for small footprint text-dependent speaker verification. In 2014 IEEE international conference on acoustics, speech and signal processing (ICASSP) (pp. 4052-4056). IEEE.
    * x-vector
       * Snyder, D., Garcia-Romero, D., Sell, G., Povey, D., & Khudanpur, S. (2018, April). X-vectors: Robust dnn embeddings for speaker recognition. In 2018 IEEE international conference on acoustics, speech and signal processing (ICASSP) (pp. 5329-5333). IEEE.
       * Snyder, D., Garcia-Romero, D., Povey, D., & Khudanpur, S. (2017, August). Deep neural network embeddings for text-independent speaker verification. In Interspeech (Vol. 2017, pp. 999-1003).
       * Desplanques, B., Thienpondt, J., & Demuynck, K. (2020). Ecapa-tdnn: Emphasized channel attention, propagation and aggregation in tdnn based speaker verification. arXiv preprint arXiv:2005.07143.
-   * r-vector Zeinali, H., Wang, S., Silnova, A., Matějka, P., & Plchot, O. (2019). But system description to voxceleb speaker recognition challenge 2019. arXiv preprint arXiv:1910.12592.
+   * r-vector: Zeinali, H., Wang, S., Silnova, A., Matějka, P., & Plchot, O. (2019). But system description to voxceleb speaker recognition challenge 2019. arXiv preprint arXiv:1910.12592.
+   * xi-vector: Lee, K. A., Wang, Q., & Koshinaka, T. (2021). Xi-vector embedding for speaker recognition. IEEE Signal Processing Letters, 28, 1385-1389.
 * **Uncertainty** 
    * Lee, K. A., Wang, Q., & Koshinaka, T. (2021). Xi-vector embedding for speaker recognition. IEEE Signal Processing Letters, 28, 1385-1389.
    * Wang, Q., & Lee, K. A. (2024). Cosine Scoring with Uncertainty for Neural Speaker Embedding. IEEE Signal Processing Letters.
