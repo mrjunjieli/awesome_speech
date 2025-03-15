@@ -32,6 +32,9 @@ This repository aims to help students become familiar with speech-related tasks,
 * Zhang, L., Song, J., Gao, A., Chen, J., Bao, C., & Ma, K. (2019). Be your own teacher: Improve the performance of convolutional neural networks via self distillation. In Proceedings of the IEEE/CVF international conference on computer vision (pp. 3713-3722).
 
 
+# VAE 
+* Auto-Encoding Variational Bayes
+
 # Speaker Recognition/Verification:
 * **Overview**
    * Wang, S., Chen, Z., Lee, K. A., Qian, Y., & Li, H. (2024). Overview of speaker modeling and its applications: From the lens of deep speaker representation learning. IEEE/ACM Transactions on Audio, Speech, and Language Processing.
