@@ -89,7 +89,7 @@ This repository aims to help students become familiar with speech-related tasks,
    * SRE: [NIST SRE](https://sre.nist.gov/#tab_home)
    * VoxBlink: A Large Scale Speaker Verification Dataset on Camera
    * CN-CELEB: a challenging Chinese speaker recognition dataset
-   * 
+   * KeSpeech: An Open Source Speech Dataset of Mandarin and Its Eight Subdialects
 
 * Tao, R., Das, R. K., & Li, H. (2020). Audio-visual speaker recognition with a cross-modal discriminative network. arXiv preprint arXiv:2008.03894.
 * Golden Gemini is All You Need: Finding the Sweet Spots for Speaker Verification
