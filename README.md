@@ -29,8 +29,8 @@ This repository aims to help students become familiar with speech-related tasks,
 
 
 # VAE 
-* Auto-Encoding Variational Bayes
-* [Youtube](https://www.youtube.com/watch?v=Tc-XfiDPLf4)
+* Auto-Encoding Variational Bayes [Youtube](https://www.youtube.com/watch?v=Tc-XfiDPLf4)
+* 
 
 # Speaker Recognition/Verification:
 * **Overview**
