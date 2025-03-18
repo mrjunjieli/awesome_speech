@@ -139,11 +139,14 @@ This repository aims to help students become familiar with speech-related tasks,
 * MuQ: Self-Supervised Music Representation Learning with Mel Residual Vector Quantization
 
 # Other knowledge
-
-
+* EER & mindcf: [https://zhuanlan.zhihu.com/p/23430377069](https://zhuanlan.zhihu.com/p/23430377069)
+* KL divergence: [https://zhuanlan.zhihu.com/p/23430377069](https://zhuanlan.zhihu.com/p/23426639552)
+* Speaker recognition 入门总结: [https://zhuanlan.zhihu.com/p/703008429](https://zhuanlan.zhihu.com/p/703008429)
 # Toolkit
 * Wespeaker[![](https://img.shields.io/github/stars/wenet-e2e/wespeaker?style=social&label=Code+Stars)](https://github.com/wenet-e2e/wespeaker)
 * Wesep[![](https://img.shields.io/github/stars/wenet-e2e/wesep?style=social&label=Code+Stars)](https://github.com/wenet-e2e/wesep)
 * 3D-Speaker[![](https://img.shields.io/github/stars/modelscope/3D-Speaker?style=social&label=Code+Stars)](https://github.com/modelscope/3D-Speaker)
+* FunASR[![](https://img.shields.io/github/stars/modelscope/FunASR?style=social&label=Code+Stars)](https://github.com/modelscope/FunASR)
+* ClearerVoice-Studio[![](https://img.shields.io/github/stars/modelscope/ClearerVoice-Studio?style=social&label=Code+Stars)](https://github.com/modelscope/ClearerVoice-Studio)
 * JusperLee [github](https://github.com/JusperLee)
 * MuQ[![](https://img.shields.io/github/stars/tencent-ailab/MuQ?style=social&label=Code+Stars)](https://github.com/tencent-ailab/MuQ)
