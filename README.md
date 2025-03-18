@@ -34,7 +34,7 @@ This repository aims to help students become familiar with speech-related tasks,
 
 # Speaker Recognition/Verification:
 * **Overview**
-   * Wang, S., Chen, Z., Lee, K. A., Qian, Y., & Li, H. (2024). Overview of speaker modeling and its applications: From the lens of deep speaker representation learning. IEEE/ACM Transactions on Audio, Speech, and Language Processing.
+   * Wang, S., Chen, Z., Lee, K. A., Qian, Y., & Li, H. (2024). Overview of speaker modeling and its applications: From the lens of deep speaker representation learning. IEEE/ACM Transactions on Audio, Speech, and Language Processing.[Youtube](https://www.youtube.com/live/FMY5_smgrYY)
    * Hanifa, R. M., Isa, K., & Mohamad, S. (2021). A review on speaker recognition: Technology and challenges. Computers & Electrical Engineering, 90, 107005.
    * Bai, Z., & Zhang, X. L. (2021). Speaker recognition based on deep learning: An overview. Neural Networks, 140, 65-99.
 * **speaker model**
