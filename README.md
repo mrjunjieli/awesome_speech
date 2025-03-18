@@ -148,5 +148,7 @@ This repository aims to help students become familiar with speech-related tasks,
 * 3D-Speaker[![](https://img.shields.io/github/stars/modelscope/3D-Speaker?style=social&label=Code+Stars)](https://github.com/modelscope/3D-Speaker)
 * FunASR[![](https://img.shields.io/github/stars/modelscope/FunASR?style=social&label=Code+Stars)](https://github.com/modelscope/FunASR)
 * ClearerVoice-Studio[![](https://img.shields.io/github/stars/modelscope/ClearerVoice-Studio?style=social&label=Code+Stars)](https://github.com/modelscope/ClearerVoice-Studio)
+* Espnet [![](https://img.shields.io/github/stars/espnet/espnet?style=social&label=Code+Stars)](https://github.com/espnet/espnet)
+* wenet [![](https://img.shields.io/github/stars/wenet-e2e/wenet?style=social&label=Code+Stars)](https://github.com/wenet-e2e/wenet)
 * JusperLee [github](https://github.com/JusperLee)
 * MuQ[![](https://img.shields.io/github/stars/tencent-ailab/MuQ?style=social&label=Code+Stars)](https://github.com/tencent-ailab/MuQ)
