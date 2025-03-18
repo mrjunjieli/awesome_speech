@@ -121,6 +121,11 @@ This repository aims to help students become familiar with speech-related tasks,
 * Ashihara, T., Moriya, T., Horiguchi, S., Peng, J., Ochiai, T., Delcroix, M., ... & Sato, H. (2024, December). Investigation of Speaker Representation for Target-Speaker Speech Processing. In 2024 IEEE Spoken Language Technology Workshop (SLT) (pp. 423-430). IEEE.
 * Neural Target Speech Extraction: An Overview 
 
+* dataset
+  * LibriMix: An Open-Source Dataset for Generalizable Speech Separation
+  * LRS2: Lip Reading Sentences in the Wild
+  * LRS3-TED: a large-scale dataset for visual speech recognition
+  * Voxceleb2: Deep speaker recognition. arXiv preprint arXiv:1806.05622.
 
 # Speaker Diarization 
 * Is Someone Speaking? Exploring Long-term Temporal Features for Audio-visual Active Speaker Detection
@@ -145,10 +150,10 @@ This repository aims to help students become familiar with speech-related tasks,
 # Toolkit
 * Wespeaker[![](https://img.shields.io/github/stars/wenet-e2e/wespeaker?style=social&label=Code+Stars)](https://github.com/wenet-e2e/wespeaker)
 * Wesep[![](https://img.shields.io/github/stars/wenet-e2e/wesep?style=social&label=Code+Stars)](https://github.com/wenet-e2e/wesep)
+* Wenet [![](https://img.shields.io/github/stars/wenet-e2e/wenet?style=social&label=Code+Stars)](https://github.com/wenet-e2e/wenet)
 * 3D-Speaker[![](https://img.shields.io/github/stars/modelscope/3D-Speaker?style=social&label=Code+Stars)](https://github.com/modelscope/3D-Speaker)
 * FunASR[![](https://img.shields.io/github/stars/modelscope/FunASR?style=social&label=Code+Stars)](https://github.com/modelscope/FunASR)
 * ClearerVoice-Studio[![](https://img.shields.io/github/stars/modelscope/ClearerVoice-Studio?style=social&label=Code+Stars)](https://github.com/modelscope/ClearerVoice-Studio)
 * Espnet [![](https://img.shields.io/github/stars/espnet/espnet?style=social&label=Code+Stars)](https://github.com/espnet/espnet)
-* wenet [![](https://img.shields.io/github/stars/wenet-e2e/wenet?style=social&label=Code+Stars)](https://github.com/wenet-e2e/wenet)
 * JusperLee [github](https://github.com/JusperLee)
 * MuQ[![](https://img.shields.io/github/stars/tencent-ailab/MuQ?style=social&label=Code+Stars)](https://github.com/tencent-ailab/MuQ)
