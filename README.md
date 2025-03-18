@@ -84,10 +84,15 @@ This repository aims to help students become familiar with speech-related tasks,
 
  * **Datasets**
    * Vox1: Nagrani, A., Chung, J. S., Xie, W., & Zisserman, A. (2020). Voxceleb: Large-scale speaker verification in the wild. Computer Speech & Language, 60, 101027. 
-   * Vox2: Chung, J. S., Nagrani, A., & Zisserman, A. (2018). Voxceleb2: Deep speaker recognition. arXiv preprint arXiv:1806.05622. 
+   * Vox2: Chung, J. S., Nagrani, A., & Zisserman, A. (2018). Voxceleb2: Deep speaker recognition. arXiv preprint arXiv:1806.05622.
+   * SITW: The Speakers in the Wild (SITW) Speaker Recognition Database 
    * SRE: [NIST SRE](https://sre.nist.gov/#tab_home)
+   * VoxBlink: A Large Scale Speaker Verification Dataset on Camera
+   * CN-CELEB: a challenging Chinese speaker recognition dataset
+   * 
 
 * Tao, R., Das, R. K., & Li, H. (2020). Audio-visual speaker recognition with a cross-modal discriminative network. arXiv preprint arXiv:2008.03894.
+* Golden Gemini is All You Need: Finding the Sweet Spots for Speaker Verification
 
 
 # Text-to-Speech 
