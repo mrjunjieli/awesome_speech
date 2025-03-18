@@ -29,7 +29,7 @@ This repository aims to help students become familiar with speech-related tasks,
 
 
 # VAE 
-* Auto-Encoding Variational Bayes [Youtube](https://www.youtube.com/watch?v=Tc-XfiDPLf4)
+* Auto-Encoding Variational Bayes [Youtube](https://www.youtube.com/watch?v=Tc-XfiDPLf4) [![github](https://img.shields.io/github/stars/AntixK/PyTorch-VAE?style=social&label=Code+Stars)](https://github.com/AntixK/PyTorch-VAE)
 * CVAE: Learning Structured Output Representation using Deep Conditional Generative Models
 
 # Speaker Recognition/Verification:
@@ -140,7 +140,6 @@ This repository aims to help students become familiar with speech-related tasks,
 * Wespeaker[![](https://img.shields.io/github/stars/wenet-e2e/wespeaker?style=social&label=Code+Stars)](https://github.com/wenet-e2e/wespeaker)
 * Wesep[![](https://img.shields.io/github/stars/wenet-e2e/wesep?style=social&label=Code+Stars)](https://github.com/wenet-e2e/wesep)
 * 3D-Speaker[![](https://img.shields.io/github/stars/modelscope/3D-Speaker?style=social&label=Code+Stars)](https://github.com/modelscope/3D-Speaker)
-* VAE[![](https://img.shields.io/github/stars/AntixK/PyTorch-VAE?style=social&label=Code+Stars)](https://github.com/AntixK/PyTorch-VAE)
 * JusperLee [github](https://github.com/JusperLee)
 
 # Some interesting repos
