@@ -31,6 +31,8 @@ This repository aims to help students become familiar with speech-related tasks,
 # VAE 
 * Auto-Encoding Variational Bayes [Youtube](https://www.youtube.com/watch?v=Tc-XfiDPLf4) [![github](https://img.shields.io/github/stars/AntixK/PyTorch-VAE?style=social&label=Code+Stars)](https://github.com/AntixK/PyTorch-VAE)
 * CVAE: Learning Structured Output Representation using Deep Conditional Generative Models
+* VQ-VAE: Neural Discrete Representation Learning
+
 
 # Speaker Recognition/Verification:
 * **Overview**
