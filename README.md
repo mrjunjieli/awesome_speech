@@ -23,7 +23,10 @@ This repository aims to help students become familiar with speech-related tasks,
 * Cai, D., Wang, W., & Li, M. (2021, June). An iterative framework for self-supervised deep speaker representation learning. In ICASSP 2021-2021 IEEE international conference on acoustics, speech and signal processing (ICASSP) (pp. 6728-6732). IEEE.
 * Hadsell, R., Chopra, S., & LeCun, Y. (2006, June). Dimensionality reduction by learning an invariant mapping. In 2006 IEEE computer society conference on computer vision and pattern recognition (CVPR'06) (Vol. 2, pp. 1735-1742). IEEE.
 * Radford, A., Kim, J. W., Hallacy, C., Ramesh, A., Goh, G., Agarwal, S., ... & Sutskever, I. (2021, July). Learning transferable visual models from natural language supervision. In International conference on machine learning (pp. 8748-8763). PMLR.
-* * Emerging Properties in Self-Supervised Vision Transformers
+*  Emerging Properties in Self-Supervised Vision Transformers
+*  Overview by myself: https://github.com/mrjunjieli/mrjunjieli.github.io/blob/main/pdf/overview_of_SSL.pdf
+*  Audio self-supervised learning: A survey
+*  A Survey on Self-Supervised Learning: Algorithms, Applications, and Future Trends  
 
 # Distillison 
 * Zhang, L., Song, J., Gao, A., Chen, J., Bao, C., & Ma, K. (2019). Be your own teacher: Improve the performance of convolutional neural networks via self distillation. In Proceedings of the IEEE/CVF international conference on computer vision (pp. 3713-3722).
@@ -142,6 +145,10 @@ This repository aims to help students become familiar with speech-related tasks,
 
 # Music 
 * MuQ: Self-Supervised Music Representation Learning with Mel Residual Vector Quantization
+
+# Speech language model 
+* On The Landscape of Spoken Language Models: A Comprehensive Survey
+* BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models
 
 # Other knowledge
 * EER & mindcf: [https://zhuanlan.zhihu.com/p/23430377069](https://zhuanlan.zhihu.com/p/23430377069)
